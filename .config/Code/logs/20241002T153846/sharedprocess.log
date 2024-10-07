@@ -1,0 +1,13 @@
+2024-10-02 15:39:05.919 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2024-10-02 15:39:05.944 [info] Installing extension: ms-vscode-remote.remote-containers {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/broninx/.vscode/extensions/extensions.json","path":"/home/broninx/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-10-02 15:39:10.151 [info] Extension signature verification result for ms-vscode-remote.remote-containers: Success. Executed: true. Duration: 2854ms.
+2024-10-02 15:39:10.469 [info] Extracted extension to file:///home/broninx/.vscode/extensions/ms-vscode-remote.remote-containers-0.384.0: ms-vscode-remote.remote-containers
+2024-10-02 15:39:10.482 [info] Renamed to /home/broninx/.vscode/extensions/ms-vscode-remote.remote-containers-0.384.0
+2024-10-02 15:39:10.516 [info] Extension installed successfully: ms-vscode-remote.remote-containers vscode-userdata:/home/broninx/.vscode/extensions/extensions.json
+2024-10-02 15:39:10.581 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/broninx/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/broninx/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)

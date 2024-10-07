@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="5" l="1727704921994" />
+    </e>
+    <e n="EditorDown">
+      <i c="7" l="1727704526164" />
+    </e>
+    <e n="EditorUp">
+      <i c="5" l="1727704519620" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1727704890443" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$NewTabAction">
+      <i c="1" l="1727705891650" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$StartAvdAction">
+      <i c="1" l="1727705893305" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="7" l="1727705890182" />
+    </e>
+  </component>
+</application>

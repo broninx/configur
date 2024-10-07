@@ -1,0 +1,6 @@
+2024/10/06-16:39:11.449 119e Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/10/06-16:39:11.450 119e Recovering log #435
+2024/10/06-16:39:11.451 119e Reusing old log /home/broninx/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/000435.log 
+2024/10/06-16:39:13.150 118e Level-0 table #439: started
+2024/10/06-16:39:13.158 118e Level-0 table #439: 639980 bytes OK
+2024/10/06-16:39:13.163 118e Delete type=0 #435

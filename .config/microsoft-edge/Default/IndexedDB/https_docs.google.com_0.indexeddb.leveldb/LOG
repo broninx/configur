@@ -1,0 +1,15 @@
+2024/09/06-12:17:04.475 15a7 Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/06-12:17:04.476 15a7 Recovering log #4
+2024/09/06-12:17:04.476 15a7 Reusing old log /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000004.log 
+2024/09/06-13:52:20.060 15a8 Level-0 table #8: started
+2024/09/06-13:52:20.064 15a8 Level-0 table #8: 190 bytes OK
+2024/09/06-13:52:20.069 15a8 Delete type=0 #4
+2024/09/06-13:52:20.070 15a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/06-13:52:20.070 15a8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 678 : 1
+2024/09/06-13:52:20.070 15a8 Compacting 1@1 + 1@2 files
+2024/09/06-13:52:20.075 15a8 Generated table #9@1: 206 keys, 3119 bytes
+2024/09/06-13:52:20.075 15a8 Compacted 1@1 + 1@2 files => 3119 bytes
+2024/09/06-13:52:20.079 15a8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/06-13:52:20.079 15a8 Delete type=2 #8
+2024/09/06-13:52:20.079 15a8 Delete type=2 #5
+2024/09/06-13:52:20.080 15a8 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 678 : 1 .. (end); will stop at (end)

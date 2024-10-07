@@ -1,0 +1,7 @@
+2024-10-02 15:38:48.112 [info] Started local extension host with pid 134127.
+2024-10-02 15:38:50.906 [info] [perf] Render performance baseline is 61ms
+2024-10-02 15:39:22.410 [error] [Extension Host] Error: spawn docker ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-10-02 15:39:27.312 [error] [Extension Host] undefined

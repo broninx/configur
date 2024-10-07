@@ -1,0 +1,17 @@
+2024/09/05-09:55:46.303 f8e Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/05-09:55:46.303 f8e Recovering log #4
+2024/09/05-09:55:46.303 f8e Reusing old log /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000004.log 
+2024/09/05-09:55:46.330 f8e Level-0 table #8: started
+2024/09/05-09:55:46.335 f8e Level-0 table #8: 654 bytes OK
+2024/09/05-09:55:46.340 f8e Delete type=0 #4
+2024/09/05-09:55:46.340 f8e Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/05-09:55:46.341 f8e Level-0 table #10: started
+2024/09/05-09:55:46.345 f8e Level-0 table #10: 509 bytes OK
+2024/09/05-09:55:46.352 f8e Delete type=0 #7
+2024/09/05-09:55:46.353 f8e Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 56 : 0
+2024/09/05-09:55:46.353 f8e Compacting 1@0 + 1@1 files
+2024/09/05-09:55:46.357 f8e Generated table #11@0: 15 keys, 617 bytes
+2024/09/05-09:55:46.357 f8e Compacted 1@0 + 1@1 files => 617 bytes
+2024/09/05-09:55:46.361 f8e compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/05-09:55:46.362 f8e Delete type=2 #10
+2024/09/05-09:55:46.362 f8e Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 56 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,17 @@
+2024/07/02-16:23:17.774 88c1 Creating DB /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_unicadrsi-my.sharepoint.com_0.indexeddb.leveldb since it was missing.
+2024/07/02-16:23:17.785 88c1 Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_unicadrsi-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/02-18:07:03.583 88c2 Level-0 table #5: started
+2024/07/02-18:07:03.647 88c2 Level-0 table #5: 1687798 bytes OK
+2024/07/02-18:07:03.653 88c2 Delete type=0 #3
+2024/07/02-18:07:39.371 88c2 Level-0 table #7: started
+2024/07/02-18:07:39.384 88c2 Level-0 table #7: 498766 bytes OK
+2024/07/02-18:07:39.390 88c2 Delete type=0 #4
+2024/07/02-18:07:39.390 88c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/02-18:07:39.401 88c2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x1f\x01$\x00f\x00f\x00e\x005\x00c\x001\x000\x001\x00-\x003\x007\x003\x00a\x00-\x004\x00b\x00d\x002\x00-\x00b\x00e\x00b\x00b\x00-\x001\x003\x000\x008\x002\x008\x005\x002\x00b\x00a\x00b\x000\x00\x01$\x00f\x00f\x00e\x005\x00c\x001\x000\x001\x00-\x003\x007\x003\x00a\x00-\x004\x00b\x00d\x002\x00-\x00b\x00e\x00b\x00b\x00-\x001\x003\x000\x008\x002\x008\x005\x002\x00b\x00a\x00b\x000' @ 15270 : 1
+2024/07/02-18:07:39.401 88c2 Compacting 1@1 + 1@2 files
+2024/07/02-18:07:39.435 88c2 Generated table #8@1: 2315 keys, 723860 bytes
+2024/07/02-18:07:39.435 88c2 Compacted 1@1 + 1@2 files => 723860 bytes
+2024/07/02-18:07:39.440 88c2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/02-18:07:39.440 88c2 Delete type=2 #5
+2024/07/02-18:07:39.440 88c2 Delete type=2 #7
+2024/07/02-18:07:39.442 88c2 Manual compaction at level-1 from '\x00\x05\x02\x1f\x01$\x00f\x00f\x00e\x005\x00c\x001\x000\x001\x00-\x003\x007\x003\x00a\x00-\x004\x00b\x00d\x002\x00-\x00b\x00e\x00b\x00b\x00-\x001\x003\x000\x008\x002\x008\x005\x002\x00b\x00a\x00b\x000\x00\x01$\x00f\x00f\x00e\x005\x00c\x001\x000\x001\x00-\x003\x007\x003\x00a\x00-\x004\x00b\x00d\x002\x00-\x00b\x00e\x00b\x00b\x00-\x001\x003\x000\x008\x002\x008\x005\x002\x00b\x00a\x00b\x000' @ 15270 : 1 .. (end); will stop at (end)

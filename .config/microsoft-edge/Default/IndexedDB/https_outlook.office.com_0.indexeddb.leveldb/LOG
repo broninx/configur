@@ -1,0 +1,29 @@
+2024/09/26-16:14:24.892 44c6 Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/26-16:14:24.893 44c6 Recovering log #6
+2024/09/26-16:14:24.893 44c6 Reusing old log /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000006.log 
+2024/09/26-16:14:24.894 44c6 Delete type=2 #5
+2024/09/26-16:14:37.759 44c8 Level-0 table #11: started
+2024/09/26-16:14:37.763 44c8 Level-0 table #11: 6971 bytes OK
+2024/09/26-16:14:37.771 44c8 Delete type=0 #6
+2024/09/26-16:14:37.771 44c8 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/26-16:14:37.773 44c7 Level-0 table #13: started
+2024/09/26-16:14:37.777 44c7 Level-0 table #13: 562 bytes OK
+2024/09/26-16:14:37.782 44c7 Delete type=0 #10
+2024/09/26-16:14:37.782 44c7 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 130 : 1
+2024/09/26-16:14:37.782 44c7 Compacting 1@0 + 1@1 files
+2024/09/26-16:14:37.787 44c7 Generated table #14@0: 35 keys, 6368 bytes
+2024/09/26-16:14:37.787 44c7 Compacted 1@0 + 1@1 files => 6368 bytes
+2024/09/26-16:14:37.791 44c7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/26-16:14:37.792 44c7 Delete type=2 #13
+2024/09/26-16:14:37.792 44c7 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 130 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/26-16:47:48.839 44c6 Level-0 table #16: started
+2024/09/26-16:47:48.844 44c6 Level-0 table #16: 2346 bytes OK
+2024/09/26-16:47:48.849 44c6 Delete type=2 #11
+2024/09/26-16:47:48.849 44c6 Delete type=0 #12
+2024/09/26-16:47:48.849 44c6 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 260 : 1
+2024/09/26-16:47:48.849 44c6 Compacting 1@0 + 1@1 files
+2024/09/26-16:47:48.854 44c6 Generated table #17@0: 72 keys, 7271 bytes
+2024/09/26-16:47:48.854 44c6 Compacted 1@0 + 1@1 files => 7271 bytes
+2024/09/26-16:47:48.858 44c6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/26-16:47:48.858 44c6 Delete type=2 #16
+2024/09/26-16:47:48.859 44c6 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 260 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

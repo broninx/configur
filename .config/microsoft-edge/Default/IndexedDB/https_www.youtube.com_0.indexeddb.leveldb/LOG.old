@@ -1,0 +1,51 @@
+2024/08/30-10:48:53.725 1428 Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/30-10:48:53.726 1428 Recovering log #36
+2024/08/30-10:48:53.737 1428 Reusing old log /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000036.log 
+2024/08/30-10:52:41.901 1427 Level-0 table #41: started
+2024/08/30-10:52:41.925 1427 Level-0 table #41: 1202999 bytes OK
+2024/08/30-10:52:41.933 1427 Delete type=0 #36
+2024/08/30-10:59:44.671 1429 Compacting 1@1 + 1@2 files
+2024/08/30-10:59:44.689 1429 Generated table #42@1: 384 keys, 39599 bytes
+2024/08/30-10:59:44.689 1429 Compacted 1@1 + 1@2 files => 39599 bytes
+2024/08/30-10:59:44.694 1429 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/30-10:59:44.695 1429 Delete type=2 #38
+2024/08/30-10:59:44.695 1429 Delete type=2 #41
+2024/08/30-11:56:42.171 1428 Level-0 table #44: started
+2024/08/30-11:56:42.203 1428 Level-0 table #44: 1357851 bytes OK
+2024/08/30-11:56:42.210 1428 Delete type=0 #40
+2024/08/30-12:03:58.142 1427 Compacting 1@1 + 1@2 files
+2024/08/30-12:03:58.154 1427 Generated table #45@1: 420 keys, 47716 bytes
+2024/08/30-12:03:58.154 1427 Compacted 1@1 + 1@2 files => 47716 bytes
+2024/08/30-12:03:58.164 1427 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/30-12:03:58.164 1427 Delete type=2 #44
+2024/08/30-12:03:58.164 1427 Delete type=2 #42
+2024/08/30-14:16:12.999 1428 Level-0 table #47: started
+2024/08/30-14:16:13.026 1428 Level-0 table #47: 1380424 bytes OK
+2024/08/30-14:16:13.032 1428 Delete type=0 #43
+2024/08/30-14:26:22.860 1428 Compacting 1@1 + 1@2 files
+2024/08/30-14:26:22.879 1428 Generated table #48@1: 473 keys, 48573 bytes
+2024/08/30-14:26:22.879 1428 Compacted 1@1 + 1@2 files => 48573 bytes
+2024/08/30-14:26:22.883 1428 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/30-14:26:22.884 1428 Delete type=2 #45
+2024/08/30-14:26:22.884 1428 Delete type=2 #47
+2024/08/30-18:39:18.703 1428 Level-0 table #50: started
+2024/08/30-18:39:18.742 1428 Level-0 table #50: 1285501 bytes OK
+2024/08/30-18:39:18.748 1428 Delete type=0 #46
+2024/08/30-18:48:04.660 1427 Compacting 1@1 + 1@2 files
+2024/08/30-18:48:04.677 1427 Generated table #51@1: 512 keys, 47877 bytes
+2024/08/30-18:48:04.677 1427 Compacted 1@1 + 1@2 files => 47877 bytes
+2024/08/30-18:48:04.683 1427 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/30-18:48:04.684 1427 Delete type=2 #48
+2024/08/30-18:48:04.684 1427 Delete type=2 #50
+2024/08/30-20:29:45.441 1428 Level-0 table #53: started
+2024/08/30-20:29:45.451 1428 Level-0 table #53: 324732 bytes OK
+2024/08/30-20:29:45.456 1428 Delete type=0 #49
+2024/08/30-20:29:45.456 1428 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/08/30-20:29:45.456 1428 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0b\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 40734 : 1
+2024/08/30-20:29:45.456 1428 Compacting 1@1 + 1@2 files
+2024/08/30-20:29:45.463 1428 Generated table #54@1: 431 keys, 42749 bytes
+2024/08/30-20:29:45.463 1428 Compacted 1@1 + 1@2 files => 42749 bytes
+2024/08/30-20:29:45.467 1428 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/30-20:29:45.467 1428 Delete type=2 #51
+2024/08/30-20:29:45.467 1428 Delete type=2 #53
+2024/08/30-20:29:45.468 1428 Manual compaction at level-1 from '\x00\x0b\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 40734 : 1 .. (end); will stop at (end)

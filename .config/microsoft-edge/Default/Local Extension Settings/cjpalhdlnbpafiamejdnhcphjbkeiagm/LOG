@@ -1,0 +1,24 @@
+2024/10/07-09:29:55.561 196b Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/10/07-09:29:55.566 196b Recovering log #1176
+2024/10/07-09:29:55.567 196b Reusing old log /home/broninx/.config/microsoft-edge/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/001176.log 
+2024/10/07-09:30:35.812 196c Level-0 table #1180: started
+2024/10/07-09:30:35.871 196c Level-0 table #1180: 5565156 bytes OK
+2024/10/07-09:30:35.878 196c Delete type=0 #1176
+2024/10/07-09:30:35.881 196c Compacting 4@0 + 4@1 files
+2024/10/07-09:30:35.916 196c Generated table #1181@0: 4 keys, 2493319 bytes
+2024/10/07-09:30:35.951 196c Generated table #1182@0: 7 keys, 2745448 bytes
+2024/10/07-09:30:35.993 196c Generated table #1183@0: 10 keys, 2110334 bytes
+2024/10/07-09:30:36.000 196c Generated table #1184@0: 8 keys, 200064 bytes
+2024/10/07-09:30:36.001 196c Compacted 4@0 + 4@1 files => 7549165 bytes
+2024/10/07-09:30:36.005 196c compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/10/07-09:30:36.006 196c Delete type=2 #1177
+2024/10/07-09:30:36.006 196c Delete type=2 #1167
+2024/10/07-09:30:36.006 196c Delete type=2 #1172
+2024/10/07-09:30:36.006 196c Delete type=2 #1170
+2024/10/07-09:30:36.006 196c Delete type=2 #1169
+2024/10/07-09:30:36.006 196c Delete type=2 #1175
+2024/10/07-09:30:36.006 196c Delete type=2 #1180
+2024/10/07-09:30:36.006 196c Delete type=2 #1168
+2024/10/07-09:31:34.171 196d Level-0 table #1186: started
+2024/10/07-09:31:34.259 196d Level-0 table #1186: 7464155 bytes OK
+2024/10/07-09:31:34.268 196d Delete type=0 #1179

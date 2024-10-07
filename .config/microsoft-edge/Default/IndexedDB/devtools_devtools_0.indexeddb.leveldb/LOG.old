@@ -1,0 +1,6 @@
+2024/07/05-17:03:24.529 1474 Creating DB /home/broninx/.config/microsoft-edge/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb since it was missing.
+2024/07/05-17:03:24.540 1474 Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/05-17:03:26.770 1475 Level-0 table #5: started
+2024/07/05-17:03:26.774 1475 Level-0 table #5: 1009 bytes OK
+2024/07/05-17:03:26.778 1475 Delete type=0 #3
+2024/07/05-17:03:26.779 1475 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

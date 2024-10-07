@@ -1,0 +1,226 @@
+{
+   "checksum": "f8e8d697735a3d1c6a33288058afb8ea",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13372359715724692",
+            "date_last_used": "13372759852507807",
+            "guid": "959502dc-a2e2-4a33-9dbc-517e1354f466",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/",
+            "visit_count": 5
+         }, {
+            "date_added": "13372359686623766",
+            "date_last_used": "13372361150798540",
+            "guid": "c7893b30-f5a4-4de8-af1b-519f497d4b31",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learning Lean 4",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leanprover-community.github.io/learn.html",
+            "visit_count": 2
+         }, {
+            "date_added": "13352289050083699",
+            "date_last_used": "13369824661690815",
+            "guid": "2688702a-4ba4-47ca-8029-8e7ccaf28738",
+            "id": "16",
+            "name": "(7) YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13358942498743949",
+            "date_last_used": "0",
+            "guid": "e29a0849-481b-4283-97e2-4fd383f3d966",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Twitch",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.twitch.tv/",
+            "visit_count": 0
+         }, {
+            "date_added": "13358941757030688",
+            "date_last_used": "0",
+            "guid": "52dcb2f7-f17e-44a0-81c9-bd517afb2037",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Reddit - Dive into anything",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.reddit.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13350567404724628",
+            "date_last_used": "0",
+            "guid": "8dc8a748-7ec3-45d8-8e95-19dd117da6e7",
+            "id": "14",
+            "name": "Google Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/maps/dir//'45.59135,10.243048'/@45.59135,10.243048,15z/data=!4m6!4m5!1m0!1m3!2m2!1d10.243048!2d45.59135?hl=it&entry=ttu",
+            "visit_count": 0
+         }, {
+            "date_added": "13359068550723568",
+            "date_last_used": "0",
+            "guid": "b5d3cbea-96a4-4746-91f9-de67c29e9e53",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Торрент-Игруха - Скачать игры на ПК через торрент",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://itorrents-igruha.org/",
+            "visit_count": 0
+         }, {
+            "date_added": "13359150939978053",
+            "date_last_used": "0",
+            "guid": "bd281e33-f51a-4fb9-9083-b12f4a1c9693",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Prime Gaming",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://gaming.amazon.com/home?ingress=twch&redirectRoute=c2V0dGluZ3MvcHJvZmlsZQ%3D%3D&ref_=sm_w_tup_epg_t_c&twitchReferral=ef5791133e29cf4bceb2f6ca9a44128c",
+            "visit_count": 0
+         }, {
+            "date_added": "13371236678533688",
+            "date_last_used": "13372437398537493",
+            "guid": "9ba0e0e3-96b5-4801-ada1-a4cfcb4c8351",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Instagram",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.instagram.com/",
+            "visit_count": 6
+         } ],
+         "date_added": "13358095182293764",
+         "date_last_used": "0",
+         "date_modified": "13372359715724692",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13308261283892337",
+               "date_last_used": "0",
+               "guid": "0870808f-32d0-46d2-8173-8c83849483ea",
+               "id": "8",
+               "name": "Amazon.it - Compra on line",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.amazon.it/gp/bit/amazonbookmark.html?tag=hp2-desktop-it-21&partner=HP",
+               "visit_count": 0
+            } ],
+            "date_added": "13309462694139775",
+            "date_last_used": "0",
+            "date_modified": "13309462694139775",
+            "guid": "b2ba780f-8f09-43ce-a804-3a3fc2d0753e",
+            "id": "7",
+            "name": "HP",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13354408139353232",
+            "date_last_used": "0",
+            "date_modified": "13354408139353232",
+            "guid": "ef7d16fd-4079-469b-877a-a0631076c334",
+            "id": "9",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "8583e384-69e1-47c9-9507-1479159e21b1",
+               "id": "11",
+               "name": "Come craccare reti WiFi | Salvatore Aranzulla",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.aranzulla.it/come-craccare-reti-wifi-26198.html",
+               "visit_count": 0
+            }, {
+               "date_added": "13354809722857075",
+               "date_last_used": "0",
+               "guid": "b14ee598-fb69-4723-9be4-ab61ec92811a",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "myTypingL",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.edclub.com/signin",
+               "visit_count": 0
+            } ],
+            "date_added": "13354408139353251",
+            "date_last_used": "0",
+            "date_modified": "13354809722857075",
+            "guid": "e03f74a1-ce1f-43d3-9c13-536a8dde7aa4",
+            "id": "10",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13358095182293776",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13358095182293778",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCCyP4mWSAQAAEgAqGHd6ZDJXTU9VeDgvZHdKK1lRZU1kemc9PUgDoAYEEqwBCCcSpwEKHGhWMkFiamVic0k1c2luTnZLY0FHeVYyZldaVT0SJDk1OTUwMmRjLWEyZTItNGEzMy05ZGJjLTUxN2UxMzU0ZjQ2NhgAIAQoBDCTmLWUpjI416it4aUyQJuGtZSmMkocWTZZSTNoZDVudERMQ2p2RXloS1Z1NzFmNVdVPVoeIhxNMVNTRXhOQ0pvbjdLQ1BaUHZldzRoaEhSUzg9ZRVQ+YnCPgJgBRKoAQgZEqMBChxFTDVQUktqeEg0ay9UV3ltWVkwak1FSjV6ck09EiQ1MmRjYjJmNy1mMTdlLTQ0YTAtODFjOS1iZDUxN2FmYjIwMzcYACACKAIw4pHCnYUyOKHuj/LyMUDikcKdhTJKHFgxTllRQzJabkhMUXk0ODZiZkttNGIwMEZjdz1aHyId62kvdy9NV2pkMTdITVJHMmtrRk9UWjJmY0pkYz1lwCv08BKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQwZjVmNjgyNC0zODQyLTU5ODEtOTY4OS00NWVhNzk5ZmU0ODgYACAAKAAwua/ri7YwOKSx64u2MECkseuLtjBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqcBCAkSogEKHDQvYVVsRFhNVmtlUmlZVzJRLy82cXBnbW5EVT0SJGVmN2QxNmZkLTQwNzktNDY5Yi04NzdhLWEwNjMxMDc2YzMzNBgAIAAoADDm7KmA4jE4ne+pgOIxQJ3vqYDiMUocWG1peGVWU0xSQTZqZDlzWHhkZlRRV3VjNExBPVoeIhxiZGdKcVFJNzhWV0Zocjl2TDQrQzYrZ01ObFk9ZQAAAAASpwEICBKiAQocZnhoSmdqKzRReVh2Z3dSTjBPYVlydmlkTXZVPRIkMDg3MDgwOGYtMzJkMC00NmQyLTgxNzMtOGM4Mzg0OTQ4M2VhGAAgACgAMLXS1ci6MDiS1NXIujBAktTVyLowShw1WDFSUXE2empuOHlVWi9Ub21tTlRFMksvTjQ9Wh4iHGV0SGlqRzYxNDQ5UFBtbDcxbnlQRzhUcnF3ST1lAAAAABKoAQgOEqMBChwwOXlTNlNrVGdLQms1amxlMmtsYVdneUdXUkU9EiQ4ZGM4YTc0OC03ZWMzLTQ1ZDgtOGU5NS0xOWRkMTE3ZGE2ZTcYACACKAIw1OTB3u8xONyz9djTMUCFxsHe7zFKHFlZNEQzQTBoM1NILzNSNXlEWURQdGRWVmxldz1aHyId9TVrRFlDVmk5SHc4T0JIbFM2ZGJ3dkVFZDVraz1lPWyFERKoAQgKEqMBChwrRndGaTIxY2lSaXQzSkY4YlBSc2Z6TmR2VnM9EiRlMDNmNzRhMS1jZTFmLTQzZDMtOWMxMy01MzZhOGRkZTdhYTQYACAAKAAw6eypgOIxOO7vqYDiMUDu76mA4jFKHEtUeHR3bkFmdE9RaVE4SkorVldzRy9tZnN3Yz1aHyIdsUJBbThYZ2UwN2VWNFpzTjFoNWM5RWltZWY1dz1lAAAAABKsAQgpEqcBChxvTWQ2cnZoT3A5T0ZOaDRkUkpObE5rWm05RFk9EiRjNzg5M2IzMC1mNWE0LTRkZTgtYWYxYi01MTlmNDk3ZDRiMzEYACACKAIwr7at4aUyOKWoreGlMkCus63hpTJKHHdVVkhMQmVPR1pwWUg2K3Y2MzhtTzl2dEt2cz1aHiIcWjRzM1pkQ1JDNUxCT1lKMjhLa0NoQUYyUXVFPWXqtgZnwj4CYAUSqAEIGhKjAQocN1VkYnJ2R2tlcUdnYXg0TDFLYzNjNzBtZlJRPRIkZTI5YTA4NDktNDgxYi00MjgzLTk3ZTItNGZkMzgzZjNkOTY2GAAgAigCMJOs7cHzMTj7nr3y8jFAwantwfMxShxycFE5azlRUTlyU1l6NW5SWklsMW8zVDZzVEk9Wh8iHeJHQWtLQlIybmFvemEzUHVyNU1CT1B4ZlJCMVU9ZeOAymoSrQEIKBKoAQocSDY2ZnhQby85V09oemVXTkpuaDNlemE4RnRFPRIkOWJhMGUwZTMtOTZiNS00ODAxLWFkYTEtYTRjZmNiNGM4MzUxGAAgACgAMIedreGlMji+qK3hpTJAvqit4aUyShw3WlgwME5Pb2tjR2RkbisydGZPU25HV0RnV0E9Wh8iHf4xcmRDdXpHbGpLQWgyUklkUkd6bHBRd0xUK2M9ZbbRMeLCPgJgBRKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRjMGRiYTBiYy03ZGUwLTU4ZjYtOWQ4Zi1jM2ZkMTQ5NjRjZjIYACAAKAAwua/ri7YwOO+y64u2MEDvsuuLtjBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqcBCAcSogEKHDYxY1NmZThWRjZtait1dU1tWlczUmMza28wZz0SJGIyYmE3ODBmLThmMDktNDNjZS1hODA0LTNhM2ZjMmQwNzUzZRgAIAAoADC10tXIujA489PVyLowQPPT1ci6MEocNDJXLzE4VWhqbnJUOTRnbFJpZ2xMK1RpVU9FPVoeIhxKYmdXckZiQ1hJS2JzMGt6aTBmQm9iaVdHR1U9ZQAAAAASpwEIDBKiAQocbFB3ZWY1RTRuaGczM1JPNzJmazVEQmxkVTdvPRIkYjE0ZWU1OTgtZmI2OS00NzIzLTliZTQtYWI2MWVjOTI4MTFhGAAgACgAMOqR6b/jMTjaj+i/4zFA2o/ov+MxShwxN25tM2xBVDJqckp6eVZBTWQvRkVzRXBZR2c9Wh4iHFFKVURGQ0I4QzlKOVNWTjJSQVZPZHV6WWM1az1l+y0NQRKoAQggEqMBChw2dVh0UGxvdDlUc1c5L0RFZkJ3VkRubkQzNVE9EiRiZDI4MWUzMy1mNTFhLTRmYjktOTA4My1iMTJmNGExYzk2OTMYACACKAIw4JHCnYUyOO2d6fbzMUDgkcKdhTJKHFhKNndHUUFTRjlUeFZaZWZ3cFhDcVhnV2E2dz1aHyId/WFnODNndUl3YmtyZXJKL3YxNFh5bHdUaE1wOD1lvDpduRKoAQgfEqMBChx3dGxQQ3hlU1FSbENEazJwTUFFNEpVdU50N0k9EiRiNWQzY2JlYS05NmE0LTQ3NDYtOTFmOS1kZTY3YzI5ZTllNTMYACACKAIw4ZHCnYUyOISe6fbzMUDhkcKdhTJKHENGU2lMcktqTFQvZy9XdFhDa3lZUnpSQUFEVT1aHyId+mpnK0VRMWlRdGRZZjV4amVtMktVVU5vWWhFOD1lFShJXhKoAQgQEqMBChxKTGJIQ1R0ZGlJUFliUER5TUM5OVNGYUxMNU09EiQyNjg4NzAyYS00YmE0LTQ3Y2EtODAyOS04ZTdjY2FmMjg3MzgYACACKAIw272+8vIxOM/u7o3aMUDbvb7y8jFKHDNlcml2QlVtUDhXOUVLK1VEUXgzSStZMUdtTT1aHyId0E54T1FzTjF6aUZDQWMwWDdHN2xXN05QQXJXcz1lOPk5MxKnAQgLEqIBChxXeWlkaXVSYnliZm1jYUhxRWlzc3ZGTHdGK2M9EiQ4NTgzZTM4NC02OWUxLTQ3YzktOTUwNy0xNDc5MTU5ZTIxYjEYACAAKAAw6uypgOIxOInwqYDiMUCJ8KmA4jFKHFF2YWdzd2ZqUEllVHhJWlhRUGJOZThDQ1FuUT1aHiIcK1o3Y3E4Rm5KMDdWSndockhCL0x5MW5SMFc4PWUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDViYmQyZDM1LWY4NTMtNTgzZi1hMjViLTkxZjEzMTNmN2MwMhgAIAAoADC5r+uLtjA49bDri7YwQPWw64u2MEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwADgA",
+   "version": 1
+}

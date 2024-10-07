@@ -1,0 +1,24 @@
+2024/10/06-16:39:07.377 118e Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/10/06-16:39:07.379 118e Recovering log #357
+2024/10/06-16:39:07.384 118e Reusing old log /home/broninx/.config/microsoft-edge/Default/Sync Data/LevelDB/000357.log 
+2024/10/06-16:45:41.302 118f Level-0 table #362: started
+2024/10/06-16:45:41.316 118f Level-0 table #362: 112291 bytes OK
+2024/10/06-16:45:41.321 118f Delete type=0 #357
+2024/10/06-17:39:36.341 118f Level-0 table #364: started
+2024/10/06-17:39:36.355 118f Level-0 table #364: 85036 bytes OK
+2024/10/06-17:39:36.360 118f Delete type=0 #361
+2024/10/06-18:12:23.746 1191 Level-0 table #366: started
+2024/10/06-18:12:23.760 1191 Level-0 table #366: 83336 bytes OK
+2024/10/06-18:12:23.764 1191 Delete type=0 #363
+2024/10/06-19:11:33.355 118f Level-0 table #368: started
+2024/10/06-19:11:33.370 118f Level-0 table #368: 79653 bytes OK
+2024/10/06-19:11:33.375 118f Delete type=0 #365
+2024/10/06-19:11:33.376 118f Compacting 4@0 + 1@1 files
+2024/10/06-19:11:33.387 118f Generated table #369@0: 1017 keys, 146052 bytes
+2024/10/06-19:11:33.387 118f Compacted 4@0 + 1@1 files => 146052 bytes
+2024/10/06-19:11:33.392 118f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/06-19:11:33.392 118f Delete type=2 #368
+2024/10/06-19:11:33.393 118f Delete type=2 #359
+2024/10/06-19:11:33.393 118f Delete type=2 #366
+2024/10/06-19:11:33.393 118f Delete type=2 #364
+2024/10/06-19:11:33.393 118f Delete type=2 #362

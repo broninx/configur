@@ -1,0 +1,50 @@
+2024-10-02 15:38:52.653 [info] [main] Log level: Info
+2024-10-02 15:38:52.653 [info] [main] Validating found git in: "git"
+2024-10-02 15:38:52.653 [info] [main] Using git "2.39.5" from "git"
+2024-10-02 15:38:52.653 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-02 15:38:52.653 [info] > git rev-parse --show-toplevel [8ms]
+2024-10-02 15:38:52.654 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-10-02 15:38:52.674 [info] [Model][openRepository] Opened repository: /home/broninx/lip
+2024-10-02 15:38:52.691 [info] > git config --get commit.template [4ms]
+2024-10-02 15:38:52.720 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-10-02 15:38:52.721 [info] > git rev-parse --show-toplevel [19ms]
+2024-10-02 15:38:52.763 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/broninx/lip/.git/refs/remotes/origin/main'
+2024-10-02 15:38:52.797 [info] > git rev-parse --show-toplevel [26ms]
+2024-10-02 15:38:52.798 [info] > git rev-parse refs/remotes/origin/main [36ms]
+2024-10-02 15:38:52.822 [info] > git status -z -uall [14ms]
+2024-10-02 15:38:52.854 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2024-10-02 15:38:52.865 [info] > git rev-parse --show-toplevel [46ms]
+2024-10-02 15:38:52.876 [info] > git config --get commit.template [23ms]
+2024-10-02 15:38:52.878 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-02 15:38:52.879 [info] > git config --local branch.main.vscode-merge-base [14ms]
+2024-10-02 15:38:52.879 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 15:38:52.966 [info] > git rev-parse --show-toplevel [57ms]
+2024-10-02 15:38:52.966 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [67ms]
+2024-10-02 15:38:52.967 [info] > git reflog main --grep-reflog=branch: Created from *. [78ms]
+2024-10-02 15:38:53.034 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/broninx/lip/.git/refs/remotes/origin/main'
+2024-10-02 15:38:53.035 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [60ms]
+2024-10-02 15:38:53.049 [info] > git rev-parse refs/remotes/origin/main [15ms]
+2024-10-02 15:38:53.059 [info] > git rev-parse --show-toplevel [37ms]
+2024-10-02 15:38:53.070 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [24ms]
+2024-10-02 15:38:53.081 [info] > git status -z -uall [23ms]
+2024-10-02 15:38:53.082 [info] > git rev-parse --show-toplevel [13ms]
+2024-10-02 15:38:53.084 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-02 15:38:53.106 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-10-02 15:38:53.115 [info] > git config --local branch.main.vscode-merge-base origin/main [36ms]
+2024-10-02 15:38:53.126 [info] > git config --local branch.main.vscode-merge-base [11ms]
+2024-10-02 15:38:53.137 [info] > git config --get commit.template [12ms]
+2024-10-02 15:38:53.138 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [3ms]
+2024-10-02 15:38:53.157 [info] > git merge-base refs/heads/main refs/remotes/origin/main [9ms]
+2024-10-02 15:38:53.169 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2024-10-02 15:38:53.181 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/broninx/lip/.git/refs/remotes/origin/main'
+2024-10-02 15:38:53.182 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [14ms]
+2024-10-02 15:38:53.194 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2024-10-02 15:38:53.204 [info] > git diff --name-status -z --diff-filter=ADMR ca9799cea93584448c0b84fc71d48601f40f0b74...refs/remotes/origin/main [13ms]
+2024-10-02 15:38:53.210 [info] > git status -z -uall [8ms]
+2024-10-02 15:38:53.236 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2024-10-02 15:38:53.249 [info] > git check-ignore -v -z --stdin [14ms]
+2024-10-02 15:38:53.251 [info] > git config --local branch.main.vscode-merge-base [4ms]
+2024-10-02 15:38:53.263 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [3ms]
+2024-10-02 16:10:03.850 [info] > git show --textconv :README.md [18ms]
+2024-10-02 16:10:03.853 [info] > git ls-files --stage -- /home/broninx/lip/README.md [4ms]
+2024-10-02 16:10:03.874 [info] > git cat-file -s 06eeacc3aaa1508ed48a08b0eb0c650f8222a10c [6ms]

@@ -1,0 +1,7 @@
+2024/10/02-14:34:55.925 fae Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/02-14:34:55.925 fae Recovering log #3
+2024/10/02-14:34:55.926 fae Reusing old log /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2024/10/02-14:35:27.932 fae Level-0 table #5: started
+2024/10/02-14:35:27.937 fae Level-0 table #5: 3320 bytes OK
+2024/10/02-14:35:27.942 fae Delete type=0 #3
+2024/10/02-14:35:27.942 fae Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,14 @@
+2024/04/26-16:30:45.762 d448 Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/WebStorage/6/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/04/26-16:30:45.763 d448 Recovering log #4
+2024/04/26-16:30:45.763 d448 Reusing old log /home/broninx/.config/microsoft-edge/Default/WebStorage/6/IndexedDB/indexeddb.leveldb/000004.log 
+2024/04/26-16:30:46.508 d448 Level-0 table #8: started
+2024/04/26-16:30:46.513 d448 Level-0 table #8: 929 bytes OK
+2024/04/26-16:30:46.518 d448 Delete type=0 #4
+2024/04/26-16:30:46.519 d448 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/26-16:30:46.519 d448 Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00@\x91\xfb\xac\xf1xB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 288 : 0
+2024/04/26-16:30:46.519 d448 Compacting 1@1 + 1@2 files
+2024/04/26-16:30:46.524 d448 Generated table #9@1: 22 keys, 755 bytes
+2024/04/26-16:30:46.524 d448 Compacted 1@1 + 1@2 files => 755 bytes
+2024/04/26-16:30:46.529 d448 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/26-16:30:46.529 d448 Delete type=2 #8
+2024/04/26-16:30:46.530 d448 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00@\x91\xfb\xac\xf1xB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 288 : 0 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

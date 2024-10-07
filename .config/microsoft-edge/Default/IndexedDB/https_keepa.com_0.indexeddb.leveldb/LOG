@@ -1,0 +1,6 @@
+2024/09/03-13:36:13.439 3d21 Creating DB /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_keepa.com_0.indexeddb.leveldb since it was missing.
+2024/09/03-13:36:13.450 3d21 Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_keepa.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/03-13:36:46.054 3d21 Level-0 table #5: started
+2024/09/03-13:36:46.058 3d21 Level-0 table #5: 1698 bytes OK
+2024/09/03-13:36:46.062 3d21 Delete type=0 #3
+2024/09/03-13:36:46.063 3d21 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

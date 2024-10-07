@@ -1,0 +1,9 @@
+2024/10/07-09:29:54.080 4 Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2024/10/07-09:29:54.094 4 Recovering log #1340
+2024/10/07-09:29:54.096 4 Reusing old log /home/broninx/.config/microsoft-edge/Default/Local Storage/leveldb/001340.log 
+2024/10/07-09:33:11.019 5 Level-0 table #1344: started
+2024/10/07-09:33:11.032 5 Level-0 table #1344: 19342 bytes OK
+2024/10/07-09:33:11.038 5 Delete type=0 #1340
+2024/10/07-09:40:27.456 5 Level-0 table #1346: started
+2024/10/07-09:40:27.468 5 Level-0 table #1346: 22846 bytes OK
+2024/10/07-09:40:27.475 5 Delete type=0 #1343

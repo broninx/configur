@@ -1,0 +1,12 @@
+[Colors]
+ConstantsFontsColor=0,0,0
+ForeColor=255,255,255
+FunctionFontsColor=0,0,0
+HexFontsColor=0,0,0
+MemoryFontsColor=0,0,0
+NumberFontsColor=0,0,0
+OperationFontsColor=0,0,0
+StatFontsColor=0,0,0
+
+[General]
+CalculatorMode=science

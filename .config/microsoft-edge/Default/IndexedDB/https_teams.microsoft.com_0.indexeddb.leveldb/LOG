@@ -1,0 +1,47 @@
+2024/09/09-08:49:17.924 1056 Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/09-08:49:17.924 1056 Recovering log #231
+2024/09/09-08:49:17.925 1056 Reusing old log /home/broninx/.config/microsoft-edge/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000231.log 
+2024/09/09-08:49:17.925 1056 Delete type=2 #230
+2024/09/09-08:49:54.195 1057 Level-0 table #236: started
+2024/09/09-08:49:54.202 1057 Level-0 table #236: 32037 bytes OK
+2024/09/09-08:49:54.209 1057 Delete type=0 #231
+2024/09/09-08:49:54.210 1057 Manual compaction at level-0 from '\x00\x99\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x99\x00\x00\x05' @ 18227 : 0
+2024/09/09-08:49:54.210 1057 Compacting 1@0 + 1@1 files
+2024/09/09-08:49:54.222 1057 Generated table #237@0: 3762 keys, 190246 bytes
+2024/09/09-08:49:54.223 1057 Compacted 1@0 + 1@1 files => 190246 bytes
+2024/09/09-08:49:54.227 1057 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/09-08:49:54.227 1057 Delete type=2 #236
+2024/09/09-08:49:54.228 1056 Manual compaction at level-0 from '\x00\x99\x00\x00\x05' @ 18227 : 0 .. '\x00\x9a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/09-08:49:54.228 1056 Level-0 table #239: started
+2024/09/09-08:49:54.232 1056 Level-0 table #239: 612 bytes OK
+2024/09/09-08:49:54.237 1056 Delete type=0 #235
+2024/09/09-08:49:54.237 1056 Delete type=2 #233
+2024/09/09-08:49:54.238 1056 Manual compaction at level-0 from '\x00\x9a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x9b\x00\x00\x05' @ 18243 : 1
+2024/09/09-08:49:54.238 1056 Compacting 1@0 + 1@1 files
+2024/09/09-08:49:54.249 1056 Generated table #240@0: 3765 keys, 190272 bytes
+2024/09/09-08:49:54.250 1056 Compacted 1@0 + 1@1 files => 190272 bytes
+2024/09/09-08:49:54.254 1056 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/09-08:49:54.254 1056 Delete type=2 #239
+2024/09/09-08:49:54.255 1056 Manual compaction at level-0 from '\x00\x9b\x00\x00\x05' @ 18243 : 1 .. '\x00\x9b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/09-08:50:02.504 1057 Level-0 table #242: started
+2024/09/09-08:50:02.508 1057 Level-0 table #242: 534 bytes OK
+2024/09/09-08:50:02.513 1057 Delete type=0 #238
+2024/09/09-08:50:02.513 1057 Delete type=2 #237
+2024/09/09-08:50:02.513 1057 Manual compaction at level-0 from '\x00\x9b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x9b\x00\x00\x05' @ 18264 : 0
+2024/09/09-08:50:02.513 1057 Compacting 1@0 + 1@1 files
+2024/09/09-08:50:02.523 1057 Generated table #243@0: 3767 keys, 190309 bytes
+2024/09/09-08:50:02.523 1057 Compacted 1@0 + 1@1 files => 190309 bytes
+2024/09/09-08:50:02.527 1057 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/09-08:50:02.528 1057 Delete type=2 #242
+2024/09/09-08:50:02.528 1055 Manual compaction at level-0 from '\x00\x9b\x00\x00\x05' @ 18264 : 0 .. '\x00\x9c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/09-08:50:02.529 1055 Level-0 table #245: started
+2024/09/09-08:50:02.533 1055 Level-0 table #245: 567 bytes OK
+2024/09/09-08:50:02.537 1055 Delete type=0 #241
+2024/09/09-08:50:02.538 1055 Delete type=2 #240
+2024/09/09-08:50:02.538 1055 Manual compaction at level-0 from '\x00\x9c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x9c\x00\x00\x05' @ 18268 : 1
+2024/09/09-08:50:02.538 1055 Compacting 1@0 + 1@1 files
+2024/09/09-08:50:02.550 1055 Generated table #246@0: 3771 keys, 190322 bytes
+2024/09/09-08:50:02.550 1055 Compacted 1@0 + 1@1 files => 190322 bytes
+2024/09/09-08:50:02.554 1055 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/09-08:50:02.555 1055 Delete type=2 #245
+2024/09/09-08:50:02.555 1055 Manual compaction at level-0 from '\x00\x9c\x00\x00\x05' @ 18268 : 1 .. '\x00\x9d\x00\x00\x00' @ 0 : 0; will stop at (end)

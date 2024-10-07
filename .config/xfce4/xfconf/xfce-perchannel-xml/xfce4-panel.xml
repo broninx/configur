@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="2"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-2" type="empty">
+      <property name="position" type="string" value="p=6;x=960;y=17"/>
+      <property name="size" type="uint" value="30"/>
+      <property name="length" type="double" value="100"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="29"/>
+        <value type="int" value="2"/>
+        <value type="int" value="26"/>
+        <value type="int" value="21"/>
+        <value type="int" value="4"/>
+        <value type="int" value="28"/>
+        <value type="int" value="27"/>
+        <value type="int" value="3"/>
+        <value type="int" value="24"/>
+        <value type="int" value="17"/>
+        <value type="int" value="23"/>
+        <value type="int" value="22"/>
+        <value type="int" value="8"/>
+        <value type="int" value="15"/>
+      </property>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="mode" type="uint" value="0"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="false"/>
+      <property name="numbering" type="bool" value="false"/>
+      <property name="wrap-workspaces" type="bool" value="false"/>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="edge.instance102819;edge.instance15626;edge.instance201383;edge.instance3589;edge.instance3947;edge.instance4868;edge.instance49217;edge.instance5137;edge.instance54322;edge.instance5713;edge.instance6261;edge.instance67475;edge.instance8968;firefox.instance1020;firefox.instance179551;firefox.instance19535;firefox.instance21419;firefox.instance5356;firefox.instance8744"/>
+    </property>
+    <property name="plugin-15" type="string" value="clock">
+      <property name="mode" type="uint" value="2"/>
+      <property name="tooltip-format" type="string" value="%A %d %B %Y"/>
+      <property name="digital-layout" type="uint" value="1"/>
+      <property name="digital-date-font" type="string" value="Quicksand Bold 8"/>
+      <property name="digital-time-font" type="string" value="Quicksand Medium, Bold 8"/>
+    </property>
+    <property name="plugin-17" type="string" value="xkb">
+      <property name="display-type" type="uint" value="2"/>
+      <property name="display-name" type="uint" value="0"/>
+      <property name="display-scale" type="uint" value="100"/>
+      <property name="group-policy" type="uint" value="0"/>
+      <property name="display-tooltip-icon" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="false"/>
+      <property name="caps-lock-indicator" type="bool" value="true"/>
+    </property>
+    <property name="plugin-21" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-22" type="string" value="power-manager-plugin"/>
+    <property name="plugin-23" type="string" value="systray">
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="parcellite"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (72%)"/>
+        <value type="string" value="wi-fi network connection “enel-wifi_75411391” active: enel-wifi_75411391 (57%)"/>
+        <value type="string" value="wi-fi network connection “enel-wifi_75411391” active: enel-wifi_75411391 (46%)"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (83%)"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (78%)"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (62%)"/>
+        <value type="string" value="wi-fi network connection “enel-wifi_75411391” active: enel-wifi_75411391 (47%)"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (51%)"/>
+        <value type="string" value="wi-fi network connection “eduroam” active: eduroam (77%)"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="no network connection"/>
+        <value type="string" value="wi-fi network connection “enel-wifi_75411391” active: enel-wifi_75411391 (54%)"/>
+        <value type="string" value="wi-fi network connection “enel-wifi_75411391” active: enel-wifi_75411391 (48%)"/>
+        <value type="string" value="wi-fi network connection “enel-wifi_75411391” active: enel-wifi_75411391 (50%)"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="blueman"/>
+      </property>
+    </property>
+    <property name="plugin-24" type="string" value="notification-plugin"/>
+    <property name="plugin-26" type="string" value="cpugraph"/>
+    <property name="plugin-27" type="string" value="tasklist">
+      <property name="sort-order" type="uint" value="4"/>
+      <property name="show-labels" type="bool" value="true"/>
+      <property name="flat-buttons" type="bool" value="false"/>
+      <property name="show-handle" type="bool" value="true"/>
+      <property name="show-tooltips" type="bool" value="false"/>
+      <property name="middle-click" type="uint" value="1"/>
+      <property name="grouping" type="bool" value="false"/>
+      <property name="include-all-workspaces" type="bool" value="false"/>
+      <property name="show-only-minimized" type="bool" value="false"/>
+      <property name="show-wireframes" type="bool" value="false"/>
+      <property name="switch-workspace-on-unminimize" type="bool" value="true"/>
+      <property name="include-all-monitors" type="bool" value="true"/>
+      <property name="window-scrolling" type="bool" value="true"/>
+    </property>
+    <property name="plugin-28" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-29" type="string" value="whiskermenu"/>
+    <property name="plugin-1" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-2" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+  </property>
+</channel>

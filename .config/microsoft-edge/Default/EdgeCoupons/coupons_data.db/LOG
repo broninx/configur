@@ -1,0 +1,15 @@
+2024/10/07-09:29:58.085 196d Reusing MANIFEST /home/broninx/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/10/07-09:29:58.087 196d Recovering log #438
+2024/10/07-09:29:58.088 196d Reusing old log /home/broninx/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/000438.log 
+2024/10/07-09:29:59.584 196c Level-0 table #442: started
+2024/10/07-09:29:59.596 196c Level-0 table #442: 638012 bytes OK
+2024/10/07-09:29:59.601 196c Delete type=0 #438
+2024/10/07-09:29:59.602 196b Compacting 4@0 + 1@1 files
+2024/10/07-09:29:59.614 196b Generated table #443@0: 5 keys, 637945 bytes
+2024/10/07-09:29:59.615 196b Compacted 4@0 + 1@1 files => 637945 bytes
+2024/10/07-09:29:59.619 196b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/07-09:29:59.620 196b Delete type=2 #439
+2024/10/07-09:29:59.620 196b Delete type=2 #430
+2024/10/07-09:29:59.620 196b Delete type=2 #433
+2024/10/07-09:29:59.621 196b Delete type=2 #442
+2024/10/07-09:29:59.621 196b Delete type=2 #436
